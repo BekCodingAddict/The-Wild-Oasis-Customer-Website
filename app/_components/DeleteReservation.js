@@ -6,7 +6,6 @@ import SpinnerMini from "./SpinnerMini";
 
 function DeleteReservation({ bookingId }) {
   const [isPending, startTransition] = useTransition();
-  console.log(bookingId);
 
   function handleDelete() {
     if (confirm("Are you sure you want to delete this reservation?"))
