@@ -45,5 +45,3 @@ export const {
   signOut,
   handlers: { GET, POST },
 } = NextAuth(authConfig);
-
-console.log(auth);
