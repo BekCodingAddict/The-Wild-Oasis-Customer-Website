@@ -3,8 +3,10 @@
 import { useState } from "react";
 import { updateGuest } from "../_lib/action";
 import SubmitButton from "./SubmitButton";
+import { useReservation } from "./ReservationContext";
 
 function UpdateProfileForm({ guest, children }) {
+  const { range } = useReservation();
   const [count, setCount] = useState();
   const { fullName, email, nationality, nationalID, countryFlag } = guest;
 
