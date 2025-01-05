@@ -103,6 +103,13 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 - 패키지 관리, 의존성 업데이트, 효율적인 개발 워크플로를 경험하며 실제 프로젝트 환경에서의 협업 기술을 향상시켰습니다.
 - 린트와 코드 규칙을 준수하며 팀 환경에서도 유지보수가 쉬운 코드를 작성하는 능력을 배웠습니다.
 
+## Problems & Challanges
+| Error & Problem Title | Status | Difficult | Date |
+|--|--|--|--|
+|[🖼️ Responsive Image Issue with next/image](https://github.com/BekCodingAddict/The-Wild-Oasis-Customer-Website/blob/master/problems/Responsive-Image-Problem.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Nov 7, 2024 |
+|[🔄 State/Props Not Passing Back to Server-Side Component](https://github.com/BekCodingAddict/The-Wild-Oasis-Customer-Website/blob/master/problems/Datas-not-passing-back-to-server-side-component.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 11, 2024 |
+|[🗑️  Caching Error in Next.js](https://github.com/BekCodingAddict/The-Wild-Oasis-Customer-Website/blob/master/problems/Caching-Error-in-Next.js.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Nov 12, 2024 |
+
 
 ## 앞으로 추가해야 할 점들:
 ### 1.반응형 디자인의 구현과 테스트 과정을 통해 다양한 디바이스에서의 사용자 경험을 최적화하는 것
