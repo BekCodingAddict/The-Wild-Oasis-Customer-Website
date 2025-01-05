@@ -86,3 +86,6 @@ export async function getStaticProps() {
 - For Dynamic Content: Use ISR to ensure pages are updated at specific intervals.
 - Service Workers: Manage or disable them during development or when they are caching outdated content.
 - Browser Cache: Clear or bypass it during testing to see the latest changes.
+
+### Enciuntered
+- Nov 12, 2024
